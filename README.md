@@ -1,1 +1,1 @@
-"Discover our Job Portal App on GitHub! Seamlessly connect employers and job seekers. With React.js for frontend, Node.js/Express for backend, and MongoDB for database management, revolutionize job hunting today!"
+
